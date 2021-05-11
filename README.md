@@ -7,7 +7,7 @@
 
 
 
-### :smiley: 💻  About Me
+### <div align="center" > :smiley: 💻  About Me </div> 
 
 💡   I'm a software developer, mainly in Android development, currently working on the project which is to design a website that is used by the amusement parks' operator to control facilities at amusement park.
 
