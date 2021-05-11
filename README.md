@@ -1,7 +1,7 @@
-### Hi 👋   <img width="30" height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/>
+### Hi I am [Sisi](https://www.linkedin.com/in/sisi-lai-028a461a2/). <img width="30" height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/> Nice to meet you
+
 <div align=center><img width="75" height="100" src="https://vectr.com/tmp/bb9lCg6xzW/l3LFSCPf1f.svg?width=640&height=640&select=l3LFSCPf1fpage0"/></div>
 
-### I am [Sisi](https://www.linkedin.com/in/sisi-lai-028a461a2/).
 
 😄 💻  About Me
 
