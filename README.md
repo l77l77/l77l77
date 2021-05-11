@@ -1,5 +1,5 @@
 <div align="center" >
-<img img width="175" height="220"  src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img img width="220" height="220"  src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
 
 ### Hi I am [Sisi](https://www.linkedin.com/in/sisi-lai-028a461a2/), <img width="30" height="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/> Nice to meet you
