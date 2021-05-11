@@ -1,10 +1,10 @@
-### Hi 👋
+### Hi 👋   
 
 <div align=center><img width="75" height="100" src="https://vectr.com/tmp/bb9lCg6xzW/l3LFSCPf1f.svg?width=640&height=640&select=l3LFSCPf1fpage0"/></div>
 
 ### I am [Sisi](https://www.linkedin.com/in/sisi-lai-028a461a2/).
 
-💻  About Me
+😄 💻  About Me
 
 💡   I'm a software developer, mainly in Android development, currently working on the project which is to design a website that is used by the amusement parks' operator to control facilities at amusement park.
 
