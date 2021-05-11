@@ -5,7 +5,7 @@
 <img src="https://cdn.discordapp.com/attachments/757258078243782698/841784878764392484/ezgif-4-5a5bc060558b.gif" align="center"/>
 </div> 
 
-
+***
 
 ### <div align="center" > :smiley: 💻  About Me </div> 
 
