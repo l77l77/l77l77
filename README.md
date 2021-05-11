@@ -1,5 +1,5 @@
 ### Hi 👋
-### I am Sisi <src="https://www.linkedin.com/in/sisi-lai-028a461a2/"/>
+### I am [Sisi](https://www.linkedin.com/in/sisi-lai-028a461a2/).
 
 
 
