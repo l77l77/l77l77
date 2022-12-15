@@ -19,8 +19,6 @@
 
 ***
 
-<div align=center><img width="75" height="100" src="https://vectr.com/tmp/bb9lCg6xzW/l3LFSCPf1f.svg?width=640&height=640&select=l3LFSCPf1fpage0"/></div>
-
 
 ## <div align="center"> Check out my repos ⬇️</div>
 
