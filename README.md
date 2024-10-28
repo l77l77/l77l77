@@ -9,13 +9,9 @@
 
 ## <div align="center" > :smiley: 💻  About Me </div> 
 
-💡   I'm a software developer, mainly in Android development, currently working on the project which is to design a website that is used by the amusement parks' operator to control facilities at amusement park.
-
-🎓  I'm currently doing Software Engineering master program at Chalmers University of Technology.🌱 
+💡   I'm a software developer, mainly in Android development.
 
 💬  You can email me at sisilai776@gmail.com. I'll respond as soon as possible!
-
-✍️  In my free time, I play all kinds of balls and pursue writing as my hobbies.
 
 ***
 
